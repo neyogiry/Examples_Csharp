@@ -1,6 +1,6 @@
 using System;
 
-public class Hello_Neyo{
+public class Operators_Expressions{
 	static void Main(string[] args){
 		
 		int x, y, a, b;
